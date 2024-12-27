@@ -1,0 +1,118 @@
+﻿  dllmain.cpp
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(135,12): error C2485: 'naked': unrecognized extended attribute
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(138,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(140,3): error C2065: 'pushad': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(141,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(141,8): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(141,8): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(142,3): error C2065: 'sub': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(142,7): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(142,7): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(143,3): error C2065: 'call': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(143,8): error C2146: syntax error: missing ';' before identifier 'Reset'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(143,8): warning C4551: function call missing argument list
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(144,3): error C2065: 'add': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(144,7): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(144,7): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(145,3): error C2065: 'pop': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(145,7): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(145,7): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(146,3): error C2065: 'popad': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(147,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(147,8): error C2146: syntax error: missing ';' before identifier 'edi'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(147,8): error C2065: 'edi': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(148,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(148,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(148,8): error C2065: 'eax': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(149,3): error C2065: 'call': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(149,8): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(149,8): error C2065: 'dword': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(149,14): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(149,14): error C2065: 'ptr': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(149,18): error C2065: 'ecx': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(150,3): error C2065: 'jmp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(150,7): error C2146: syntax error: missing ';' before identifier 'lpJmpReset'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(154,18): error C2485: 'naked': unrecognized extended attribute
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(156,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(158,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(158,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(158,8): error C2065: 'ebx': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(159,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(159,8): error C2146: syntax error: missing ';' before identifier 'ecx'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(159,8): error C2065: 'ecx': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(160,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(160,8): error C2143: syntax error: missing ';' before 'constant'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(161,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(161,8): error C2146: syntax error: missing ';' before identifier 'eax'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(161,8): error C2065: 'eax': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(162,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(162,8): error C2146: syntax error: missing ';' before identifier 'ebp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(162,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(163,3): error C2065: 'mov': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(163,7): error C2146: syntax error: missing ';' before identifier 'ebp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(163,7): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(163,12): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(164,3): error C2065: 'pushad': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(165,3): error C2065: 'pushfd': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(166,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(166,8): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(166,8): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(167,3): error C2065: 'sub': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(167,7): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(167,7): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(168,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(168,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(169,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(169,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(170,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(170,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(171,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(171,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(172,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(172,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(173,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(173,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(174,3): error C2065: 'push': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(174,8): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(175,3): error C2065: 'call': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(175,8): error C2146: syntax error: missing ';' before identifier 'DrawIndexedPrimitive'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(175,8): warning C4551: function call missing argument list
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(176,3): error C2065: 'add': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(176,7): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(176,7): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(177,3): error C2065: 'pop': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(177,7): error C2146: syntax error: missing ';' before identifier 'esp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(177,7): error C2065: 'esp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(178,3): error C2065: 'popfd': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(179,3): error C2065: 'popad': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(180,3): error C2065: 'pop': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(180,7): error C2146: syntax error: missing ';' before identifier 'ebp'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(180,7): error C2065: 'ebp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(181,3): error C2065: 'call': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(181,8): error C2146: syntax error: missing ';' before identifier 'dword'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(181,8): error C2065: 'dword': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(181,14): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(181,14): error C2065: 'ptr': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(181,18): error C2065: 'edx': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(182,3): error C2065: 'jmp': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(182,7): error C2146: syntax error: missing ';' before identifier 'DIPJMP'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(186,12): error C2485: 'naked': unrecognized extended attribute
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(189,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,3): error C2065: 'mov': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,7): error C2146: syntax error: missing ';' before identifier 'edx'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,7): error C2065: 'edx': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,12): error C2065: 'dword': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,18): error C2146: syntax error: missing ';' before identifier 'ptr'
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,18): error C2065: 'ptr': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,22): error C2065: 'ecx': undeclared identifier
+D:\Hacks\D3D9-Hook-ImGui-main\Source\D3D9 Hook ImGui\dllmain.cpp(191,25): fatal  error C1003: error count exceeds 100; stopping compilation
+  Drawing.cpp
+  Hook.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
